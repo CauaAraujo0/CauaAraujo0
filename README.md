@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá! Eu sou Cauã 👋
 
-<!--
-**CauaAraujo0/CauaAraujo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação
+💻 Interessado em desenvolvimento de software
+🌱 Atualmente aprendendo Java, Python e desenvolvimento web
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java • Python • SQL • Git • GitHub
+
+## 📚 Atualmente estudando
+
+- Programação Orientada a Objetos
+- Estruturas de Dados
+- Banco de Dados
+- Desenvolvimento Web
+
+## 🚀 Projetos
+
+[seus principais projetos]
+
+## 📫 Contato
+
+[LinkedIn] [Email]
