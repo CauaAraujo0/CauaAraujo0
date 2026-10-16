@@ -7,7 +7,7 @@
 **Software Development Internships · Web Development · Continuous Learning**
 
 [![Portfolio](https://img.shields.io/badge/GitHub-Explore%20my%20projects-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauaAraujo0?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-0D9488?style=for-the-badge&logo=gmail&logoColor=white)](mailto:araujo.caua2006@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-0D9488?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=araujo.caua2006%40gmail.com&su=Portfolio%20inquiry)
 
 </div>
 
@@ -84,7 +84,9 @@ Academic queue-management system for medical laboratories, including ticket issu
 I'm open to conversations about **internship opportunities, collaborative projects, and software development**.
 
 - **GitHub:** [github.com/CauaAraujo0](https://github.com/CauaAraujo0)
-- **Email:** [Get in touch](mailto:araujo.caua2006@gmail.com)
+- **Email:** `araujo.caua2006@gmail.com` · [Compose in Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=araujo.caua2006%40gmail.com&su=Portfolio%20inquiry) · [Use your email app](mailto:araujo.caua2006@gmail.com)
+
+Prefer another email provider? Copy the address above.
 
 ---
 
